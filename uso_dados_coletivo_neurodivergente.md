@@ -1,5 +1,14 @@
 # Uso dos Dados Coletados pelo Coletivo Neurodivergente da UFRN
 
+
+## Resumo
+
+O Coletivo Neurodivergente da UFRN coleta dados dos interessados em ingressar no grupo do WhatsApp para promover inclusão, apoio e organização eficiente das atividades. Os principais objetivos da coleta são facilitar a identificação e comunicação, assegurar a participação no grupo, personalizar o suporte, e organizar as atividades. Além disso, os dados poderão ser utilizados de forma anonimizada para fins científicos no futuro.
+
+Os dados coletados incluem nome, telefone, e-mail, confirmação de adição ao grupo do WhatsApp, faixa etária, relação com a UFRN, curso, motivações, interesse na organização, relação com a neurodiversidade, e condições neurodivergentes. Estes dados são armazenados de forma segura e acessíveis apenas a membros autorizados, garantindo a privacidade e a proteção conforme a LGPD.
+
+Para mais informações ou dúvidas sobre o uso dos dados, o contato pode ser feito pelo e-mail: coletivoneurodivergenteufrn@gmail.com. Mais informações também estão disponíveis no Instagram do Coletivo Neurodivergente da UFRN.
+
 ## Introdução
 
 O Coletivo Neurodivergente da UFRN é uma organização independente que visa promover a inclusão e o apoio às pessoas neurodivergentes dentro da comunidade da Universidade Federal do Rio Grande do Norte (UFRN). Este documento descreve como os dados coletados através do formulário de ingresso são utilizados, garantindo transparência e proteção das informações dos participantes.
@@ -13,6 +22,7 @@ A coleta de dados através do formulário de ingresso ao grupo do WhatsApp do Co
 3. **Personalização e Relevância:** Compreender as necessidades e motivações dos participantes para oferecer suporte personalizado e relevante.
 4. **Organização de Atividades:** Identificar membros interessados em participar da organização das atividades do Coletivo.
 5. **Promoção da Neurodiversidade:** Coletar informações sobre a relação dos participantes com a neurodiversidade para orientar ações e campanhas.
+6. **Fins Científicos:** Utilizar os dados, de forma anonimizada, para futuros estudos científicos relacionados à neurodiversidade.
 
 ## Dados Coletados e Seus Usos
 
@@ -68,18 +78,20 @@ A coleta de dados através do formulário de ingresso ao grupo do WhatsApp do Co
 
 Os dados coletados são armazenados em sistemas seguros e acessíveis apenas pelos membros autorizados da organização do Coletivo Neurodivergente da UFRN. Nenhum dado será compartilhado com terceiros sem o consentimento explícito dos participantes. A segurança e a privacidade das informações pessoais são prioridades, e medidas rigorosas são adotadas para protegê-las.
 
+## Uso para Fins Científicos
+
+Os dados coletados poderão ser utilizados futuramente para fins científicos, sempre de forma anonimizada e impessoal, garantindo que nenhuma informação possa ser associada a uma pessoa específica. Esta prática está alinhada com a Lei Geral de Proteção de Dados (LGPD), que assegura a privacidade e a proteção das informações pessoais dos participantes.
+
 ## Conclusão
 
 A coleta de dados através do formulário de ingresso é fundamental para a organização e funcionamento eficiente do Coletivo Neurodivergente da UFRN. Os dados são utilizados de maneira responsável, sempre com o objetivo de promover a inclusão, o apoio e a participação ativa dos membros na causa da neurodiversidade.
 
 ## Contato
 
-Para dúvidas ou mais informações sobre o uso dos dados, entre em contato conosco através do e-mail: coletivoneurodivergenteufrn@gmail.com .
+Para dúvidas ou mais informações sobre o uso dos dados, entre em contato conosco através do e-mail: coletivoneurodivergenteufrn@gmail.com.
 
-Instagram do [Coletivo Neurodivergente da UFRN](https://www.instagram.com/coletivoneurodivergenteufrn/).
+[Instagram do Coletivo Neurodivergente da UFRN](https://www.instagram.com/coletivoneurodivergenteufrn/).
 
 ---
 
 **Coletivo Neurodivergente da UFRN**
-
-
